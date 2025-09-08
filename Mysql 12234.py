@@ -12,4 +12,6 @@ data = tb.tabulate(row, headers = headers, tablefmt= "fancy_grid" )
 print(data)
 
 mycon.close()  
+print("Bye")
+
 print("Hi")
