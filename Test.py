@@ -13,3 +13,4 @@ data_table = tabulate(data, headers = headers, tablefmt = "fancy_grid")
 
 print(data_table)
 
+mycon.close()  
